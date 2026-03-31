@@ -1,15 +1,93 @@
-# profile
+# 👋 Hi, I'm Gorakh Avhad
 
-## 👋 Hi there! I’m Gorakh Avhad
+🚀 Senior Software Developer | 🤖 AI-Powered App Builder | ⚡ Angular & Node.js Specialist  
+
+I build **scalable web applications** and **AI-powered solutions** that improve performance, automation, and user experience.
+
+---
 
 ## 🚀 About Me
 
-### 💼 Role: Sr.Software Developer
-### 🏢 Company/Organization: Aarav Global Products & Services Pvt. Ltd. (SBI Client)
-### 💻 Tech Stack:HTML, CSS, JavaScript, Responsive Design, Angular, TypeScript , Unit Testing, GitHub, GitLab, CICD
-### 🌱 Currently Learning: 
-### 🎯 Goals: Building scalable systems 
-### 📫 How to reach me: gorakhavhad1996@gmail.com
+- 💼 Sr. Software Developer at Aarav Global Products & Services Pvt. Ltd. (SBI Client)
+- 🧠 Strong in Full-Stack Development (Angular + Node.js)
+- ⚡ Experience with real-time systems using Firebase
+- 🤖 Building AI-integrated applications using OpenAI
+- 🎯 Focused on scalable architecture & performance optimization
 
-🛠️ Tech Stack
-<p align="center">  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-3EAAF1?style=for-the-badge&logo=githubactions&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Security-Checkov-FF6F61?style=for-the-badge&logo=checkov&logoColor=white" /> <img src="https://img.shields.io/badge/Security-Trivy-0A97F5?style=for-the-badge&logo=trivy&logoColor=white" /> </p>
+---
+
+## 🔥 What I Do
+
+- 🌐 Develop enterprise-level Angular applications  
+- ⚡ Build real-time apps with Firebase  
+- 🧠 Design optimized AI prompts for better LLM output  
+- 🛠️ Create automation tools using APIs & backend systems  
+- 🎨 Improve UI/UX with Angular Material & responsive design  
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend:**  
+Angular 18, TypeScript, JavaScript, HTML, CSS, Bootstrap, Angular Material  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+Firebase, MongoDB  
+
+**AI & Tools:**  
+OpenAI API, Prompt Engineering  
+
+**DevOps & Tools:**  
+GitHub, GitLab, CI/CD, Unit Testing  
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Chat Application
+- Real-time chat using Angular + Firebase  
+- AI integration using OpenAI API  
+- Optimized prompts for better response accuracy  
+
+👉 [View Project](#)
+
+---
+
+### 📚 Prompt Engineering Library
+- Collection of reusable AI prompts  
+- Covers UI generation, chatbot flows, automation  
+- Designed for real-world developer use  
+
+👉 [View Project](#)
+
+---
+
+### 💼 Onesetu – Business Communication Platform
+- Digital communication platform for businesses  
+- Messaging, notifications & automation features  
+- Clean and responsive UI design  
+
+👉 [View Project](#)
+
+---
+
+## 📈 Impact
+
+- ⚡ Improved development efficiency using automation  
+- 🎯 Enhanced AI response accuracy with structured prompts  
+- 🚀 Built scalable and maintainable enterprise applications  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: gorakhavhad1996@gmail.com  
+- 💼 LinkedIn: (Add your link)  
+- 🐙 GitHub: https://github.com/your-username  
+
+---
+
+⭐ *Building scalable systems. Exploring AI. Delivering real impact.*
