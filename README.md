@@ -9,7 +9,10 @@ I build **scalable web applications** and **AI-powered solutions** that improve 
 ## 🚀 About Me
 
 - 💼 Sr. Software Developer at Aarav Global Products & Services Pvt. Ltd. (SBI Client)
-- 🧠 Strong in Full-Stack Development (Angular + Node.js)
+- 🧠 Expert in Angular, TypeScript & enterprise frontend systems
+- ⚡ Strong in performance optimization & lazy loading
+- 🔐 Experience with RBAC & secure banking applications
+- 🏗️ Built 20+ production-grade applications
 - ⚡ Experience with real-time systems using Firebase
 - 🤖 Building AI-integrated applications using OpenAI
 - 🎯 Focused on scalable architecture & performance optimization
@@ -47,19 +50,27 @@ GitHub, GitLab, CI/CD, Unit Testing
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Chat Application
-- Real-time chat using Angular + Firebase  
-- AI integration using OpenAI API  
-- Optimized prompts for better response accuracy  
+### 🏦 Loan Lifecycle Management System (SBI)
+- End-to-end loan processing (Proposal → Approval → Disbursement)
+- RBAC (Maker, Checker, Approver roles)
+- Complex Reactive Forms & validations
+- Optimized performance using lazy loading
+
+
+### 📊 ERP Applications
+- Enterprise-scale Angular apps
+- Reusable UI components (Angular Material, NgZorro)
+- Improved performance by 25%+
 
 👉 [View Project](#)
 
 ---
 
-### 📚 Prompt Engineering Library
-- Collection of reusable AI prompts  
-- Covers UI generation, chatbot flows, automation  
-- Designed for real-world developer use  
+### 📈 Highlights
+- ⚡ Improved app performance by 25–30%
+- 🧩 Built reusable, scalable UI components
+- 🎯 Delivered secure RBAC-based systems
+- ✅ Achieved 98% test compliance 
 
 👉 [View Project](#)
 
