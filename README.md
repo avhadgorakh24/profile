@@ -85,8 +85,8 @@ GitHub, GitLab, CI/CD, Unit Testing
 ## 📫 Connect With Me
 
 - 📧 Email: gorakhavhad1996@gmail.com  
-- 💼 LinkedIn: (Add your link)  
-- 🐙 GitHub: https://github.com/your-username  
+- 💼 LinkedIn: https://in.linkedin.com/in/gorakh-avhad
+- 🐙 GitHub: https://github.com/avhadgorakh24
 
 ---
 
